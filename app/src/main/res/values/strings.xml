@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="intro">Benvenuto! Scegli un numero tra %d e %d e io proverò ad indovinarlo. Quando hai scelto premi "START"</string>
+    <string name="startButtonString">START</string>
+    <string name="tentativo">Secondo me il numero è %d</string>
+    <string name="pavone">Sono troppo figo! Ho indovinato!!! Voglio giocare ancora.</string>
+</resources>
